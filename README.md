@@ -45,9 +45,14 @@
       </thead>
       
       <tbody>
+        
         <tr> 
           <td>
-             <img src="https://img.pokemondb.net/artwork/persian.jpg">
+             <img src="https://img.pokemondb.net/artwork/buneary.jpg">
+          </td>
+          <td>Normal</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/lopunny">Lopunny</a>
           </td>
         </tr>
         
@@ -55,11 +60,19 @@
           <td>
             <img src="https://img.pokemondb.net/artwork/charmander.jpg">
           </td>
+          <td>Fire</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/charmeleon">Charmeleon</a>
+          </td>
         </tr>
         
         <tr>
           <td>
             <img src="https://img.pokemondb.net/artwork/squirtle.jpg">
+          </td>
+          <td>Water</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/wartortle">Wartortle</a>
           </td>
         </tr>
         
@@ -67,17 +80,29 @@
           <td>
             <img src="https://img.pokemondb.net/artwork/bayleef.jpg">
           </td>
-        </tr>
-        
-        <tr>
+          <td>Grass</td>
           <td>
-            <img src="https://img.pokemondb.net/artwork/pikachu.jpg">
+            <a href="https://pokemondb.net/pokedex/meganium">Meganim</a>
           </td>
         </tr>
         
         <tr>
           <td>
-            <img src="https://img.pokemondb.net/artwork/regice.jpg">
+            <img src="https://img.pokemondb.net/artwork/pichu.jpg">
+          </td>
+          <td>Electric</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/pikachu">Pikachu</a>
+          </td>
+        </tr>
+        
+        <tr>
+          <td>
+            <img src="https://img.pokemondb.net/artwork/cubchoo.jpg">
+          </td>
+          <td>Ice</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/beartic">Beartic</a>
           </td>
         </tr>
         
@@ -85,11 +110,19 @@
           <td>
             <img src="https://img.pokemondb.net/artwork/mankey.jpg">
           </td>
+          <td>Fighting</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/primeape">Primeape</a>
+          </td>
         </tr>
         
         <tr>
           <td>
             <img src="https://img.pokemondb.net/artwork/grimer.jpg">
+          </td>
+          <td>Poison</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/muk">Muk</a>
           </td>
         </tr>
         
@@ -97,11 +130,19 @@
           <td>
             <img src="https://img.pokemondb.net/artwork/sandshrew.jpg">
           </td>
+          <td>Gound</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/sandslash">Sandslash</a>
+          </td>
         </tr>
         
         <tr>
           <td>
             <img src="https://img.pokemondb.net/artwork/spearow.jpg">
+          </td>
+          <td>Flying</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/fearow">Fearow</a>
           </td>
         </tr>
         
@@ -109,11 +150,19 @@
           <td>
             <img src="https://img.pokemondb.net/artwork/abra.jpg">
           </td>
+          <td>Psychic</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/kadabra">Kadabra</a>
+          </td>
         </tr>
         
         <tr>
           <td>
             <img src="https://img.pokemondb.net/artwork/caterpie.jpg">
+          </td>
+          <td>Bug</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/metapod">Metapod</a>
           </td>
         </tr>
         
@@ -121,17 +170,29 @@
           <td>
             <img src="https://img.pokemondb.net/artwork/cranidos.jpg">
           </td>
+          <td>Rock</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/rampardos">Rampardos</a>
+          </td>
         </tr>
         
         <tr>
           <td>
             <img src="https://img.pokemondb.net/artwork/shuppet.jpg">
           </td>
+          <td>Ghost</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/banette">Banette</a>
+          </td>
         </tr>
         
         <tr>
           <td>
-            <img src="https://img.pokemondb.net/artwork/umbreon.jpg">
+            <img src="https://img.pokemondb.net/artwork/zorua.jpg">
+          </td>
+          <td>Dark</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/zoroark">Zoroark</a>
           </td>
         </tr>
         
@@ -139,17 +200,29 @@
           <td>
             <img src="https://img.pokemondb.net/artwork/dratini.jpg">
           </td>
+          <td>Dragon</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/dragonair">Dragonair</a>
+          </td>
         </tr>
         
         <tr>
           <td>
             <img src="https://img.pokemondb.net/artwork/klang.jpg">
           </td>
+          <td>Steel</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/klinklang">Klinklang</a>
+          </td>
         </tr>
         
         <tr>
           <td>
             <img src="https://img.pokemondb.net/artwork/clefairy.jpg">
+          </td>
+          <td>Fairy</td>
+          <td>
+            <a href="https://pokemondb.net/pokedex/clefable">Clefable</a>
           </td>
         </tr>
           
@@ -161,8 +234,3 @@
 
     </table>
 
-
-
-
-  </body>
-</html>
